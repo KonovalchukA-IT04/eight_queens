@@ -1,0 +1,7 @@
+E:\studying\II course\III semestr\algorithms\lab_1_(eight_queens)\lab_1_(eight_queens)\bin\Debug\lab_1_(eight_queens).exe.config
+E:\studying\II course\III semestr\algorithms\lab_1_(eight_queens)\lab_1_(eight_queens)\bin\Debug\lab_1_(eight_queens).exe
+E:\studying\II course\III semestr\algorithms\lab_1_(eight_queens)\lab_1_(eight_queens)\bin\Debug\lab_1_(eight_queens).pdb
+E:\studying\II course\III semestr\algorithms\lab_1_(eight_queens)\lab_1_(eight_queens)\obj\Debug\lab_1_(eight_queens).csprojAssemblyReference.cache
+E:\studying\II course\III semestr\algorithms\lab_1_(eight_queens)\lab_1_(eight_queens)\obj\Debug\lab_1_(eight_queens).csproj.CoreCompileInputs.cache
+E:\studying\II course\III semestr\algorithms\lab_1_(eight_queens)\lab_1_(eight_queens)\obj\Debug\lab_1_(eight_queens).exe
+E:\studying\II course\III semestr\algorithms\lab_1_(eight_queens)\lab_1_(eight_queens)\obj\Debug\lab_1_(eight_queens).pdb
